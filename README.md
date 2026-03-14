@@ -1,4 +1,4 @@
-HelloWorld. Pascal Tutorials. Platform DotNet FrameWork. Input/Output. Windows Forms. GUI Application. 
+HelloWorld. Pascal Tutorials. Platform DotNet FrameWork. Input/Output. Windows Forms. GUI Application.
 The program does the following:
   1. Creates a dialog box (form) with two buttons on it.
   2. Starts a cycle of processing messages (events) from the user or the operating system.
